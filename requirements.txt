@@ -1,0 +1,14 @@
+# Web framework — sandbox login server
+flask>=3.0
+
+# HTTP client — attack engine
+requests>=2.31
+
+# Test framework
+pytest>=8.0
+
+# Environment variable loading
+python-dotenv>=1.0
+
+# Optional: CLI progress bars
+tqdm>=4.66
